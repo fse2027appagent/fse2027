@@ -1,0 +1,134 @@
+{
+  "gaode map": {
+    "description": "a commonly used map app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "red note": {
+    "description": "a lifestyle platform and consumer decision-making portal",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "taobao": {
+    "description": "a commonly used shopping app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "bilibili": {
+    "description": "a commonly used app for watching videos",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "kugou music": {
+    "description": "a commonly used app for listening music",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "dazhongdianping": {
+    "description": "a commonly used app for searching local merchants",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "clock": {
+    "description": "a clock app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "qq": {
+    "description": "a commonly used social chat app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "baidu map": {
+    "description": "a commonly used map app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "weibo": {
+    "description": "a lifestyle platform and consumer decision-making portal",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "wechat": {
+    "description": "a commonly used social chat app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "jingdong": {
+    "description": "a commonly used shopping app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "tiktok": {
+    "description": "a commonly used app for watching videos",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "qq music": {
+    "description": "a commonly used app for listening music",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "meituan": {
+    "description": "a commonly used app for searching local merchants",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "gmail": {
+    "description": "an email app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "yelp": {
+    "description": "a local business discovery app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "telegram": {
+    "description": "a messaging app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "spotify": {
+    "description": "a music streaming app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "youtube": {
+    "description": "a video sharing app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "temu": {
+    "description": "a shopping app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  },
+  "qq mail": {
+    "description": "an email app",
+    "language": "en",
+    "tags": [],
+    "last_updated": null
+  }
+}

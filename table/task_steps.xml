@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tasks>
+    <task>
+        <app_name>gaode map</app_name>
+        <task_desc>search for Alibaba Hangzhou, get driving directions, and begin the route</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftAlibaba Hangzhou%_right</task_step>
+            <task_step>Select the first search result</task_step>
+            <task_step>Choose the driving directions option</task_step>
+            <task_step>Start navigation</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>gaode map</app_name>
+        <task_desc>search for HeyTea, find walking directions, and start the walk</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftHeyTea%_right</task_step>
+            <task_step>Select the first search result</task_step>
+            <task_step>Choose the walking directions option</task_step>
+            <task_step>Start navigation</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>gaode map</app_name>
+        <task_desc>find nearby hotels, arrange them by distance, and navigate to the nearest one</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_lefthotel%_right</task_step>
+            <task_step>Arrange the search results by distance</task_step>
+            <task_step>Select the nearest hotel from the sorted list</task_step>
+            <task_step>Start Navigation to the hotel</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>gaode map</app_name>
+        <task_desc>access saved locations and route to my apartment</task_desc>
+        <task_steps>
+            <task_step>Navigate to the "Saved" or "Favorites" section</task_step>
+            <task_step>Select My apartment from the list of saved locations</task_step>
+            <task_step>Start navigation to the location</task_step>
+        </task_steps>
+    </task><task>
+        <app_name>gaode map</app_name>
+        <task_desc>find nearby hotels that has lovers room and check availability</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for hotel</task_step>
+            <task_step>Apply the filter to show hotels with lovers room</task_step>
+            <task_step>Select the first hotel from the filtered results</task_step>
+            <task_step>Check availability for the selected hotel</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>qq</app_name>
+        <task_desc>switch to night mode in the app</task_desc>
+        <task_steps>
+            <task_step>Navigate to the settings menu</task_step>
+            <task_step>Find the display or theme settings</task_step>
+            <task_step>Enable night mode</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>qq</app_name>
+        <task_desc>post a new picture on my profile</task_desc>
+        <task_steps>
+            <task_step>Navigate to the profile settings</task_step>
+            <task_step>Tap on the area post pictures</task_step>
+            <task_step>Select the option to choose a photo from the gallery</task_step>
+            <task_step>Choose the first image from the gallery</task_step>
+            <task_step>Confirm to post the picture</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>qq</app_name>
+        <task_desc>create a new group and invite ”suou“ to join</task_desc>
+        <task_steps>
+            <task_step>Tap the button to create a new group chat</task_step>
+            <task_step>Tap the search bar and search for %_leftsuou%_right</task_step>
+            <task_step>Select the first search result corresponding to user suou</task_step>
+            <task_step>Tap the add button to include suou in the group</task_step>
+            <task_step>Confirm the creation of the group</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>qq</app_name>
+        <task_desc>talk to user "suou" and answer his inquiries</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftsuou%_right</task_step>
+            <task_step>Select the first search result corresponding to user suou</task_step>
+            <task_step>Tap on the chat window to open the conversation with suou</task_step>
+            <task_step>Read the message from suou and type an appropriate response</task_step>
+            <task_step>Send the response by tapping the send button</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>qq</app_name>
+        <task_desc>open profile settings, navigate to theme style, and choose a color theme</task_desc>
+        <task_steps>
+            <task_step>Navigate to the profile settings</task_step>
+            <task_step>Navigate to the dressing setting</task_step>
+            <task_step>Tap on the "Theme style" option</task_step>
+            <task_step>Select the first available color theme from the list</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>red note</app_name>
+        <task_desc>post a message saying "Hello World"</task_desc>
+        <task_steps>
+            <task_step>Navigate to the main feed or posting interface</task_step>
+            <task_step>Tap the button to create a new post</task_step>
+            <task_step>Enter the text "Hello World" in the message input field</task_step>
+            <task_step>Tap the post button to publish the message</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>red note</app_name>
+        <task_desc>post with a random picture and caption "This is it"</task_desc>
+        <task_steps>
+            <task_step>Navigate to the main feed or posting interface</task_step>
+            <task_step>Tap the button to create a new post</task_step>
+            <task_step>Tap the image selection icon and select the first image from the gallery</task_step>
+            <task_step>Enter the caption "This is it" in the caption input field</task_step>
+            <task_step>Tap the post button to publish the message</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>red note</app_name>
+        <task_desc>search for the user Annie and follow her</task_desc>
+        <task_steps>
+            <task_step>Navigate to the search or discover section of the app</task_step>
+            <task_step>Tap the search bar and search for %_leftAnnie%_right</task_step>
+            <task_step>Tap on the first user profile named Annie of the users from the search results</task_step>
+            <task_step>Tap the follow button on Annie's profile to follow her</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>red note</app_name>
+        <task_desc>search for a post about anime and like it</task_desc>
+        <task_steps>
+            <task_step>Navigate to the search or discover section of the app</task_step>
+            <task_step>Tap the search bar and search for %_leftanime%_right</task_step>
+            <task_step>Tap on the first post about anime of the posts from the search results</task_step>
+            <task_step>Give the post a like</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>red note</app_name>
+        <task_desc>visit my profile and update my name to "Cool"</task_desc>
+        <task_steps>
+            <task_step>Navigate to the profile section of the app</task_step>
+            <task_step>Navigate to the interface of my information</task_step>
+            <task_step>Clear the existing name and enter "Cool"</task_step>
+            <task_step>Tap the save or confirm button to update the name</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>taobao</app_name>
+        <task_desc>search for a Bluetooth speaker and add it to my cart</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftBluetooth speaker%_right</task_step>
+            <task_step>Tap on the first Bluetooth speaker from the search result</task_step>
+            <task_step>Add this item to my cart</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>taobao</app_name>
+        <task_desc>find my coupons and check one of it</task_desc>
+        <task_steps>
+            <task_step>Navigate to "My" interface</task_step>
+            <task_step>Navigate to "coupons" section</task_step>
+            <task_step>Select the first coupon from the list and check it</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>taobao</app_name>
+        <task_desc>clear all products from my shopping cart</task_desc>
+        <task_steps>
+            <task_step>Tap the shopping cart icon in the bottom navigation bar</task_step>
+            <task_step>Select all items in the cart</task_step>
+            <task_step>Tap the delete or remove button to clear all selected items</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>taobao</app_name>
+        <task_desc>view all my pending payment orders</task_desc>
+        <task_steps>
+            <task_step>Navigate to "My" interface</task_step>
+            <task_step>Navigate to "Orders" section</task_step>
+            <task_step>Select pending payment orders from the order status options</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>taobao</app_name>
+        <task_desc>enable facial recognition payment</task_desc>
+        <task_steps>
+            <task_step>Navigate to "My" interface</task_step>
+            <task_step>Navigate to settings interface</task_step>
+            <task_step>Navigate to "facial recognition payment" setting</task_step>
+            <task_step>Enable "facial recognition payment"</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>bilibili</app_name>
+        <task_desc>search for lemon video and give the thumbs-up</task_desc>
+        <task_steps>
+            <task_step>Navigate to the search or discover section of the app</task_step>
+            <task_step>Tap the search bar and search for %_leftlemon%_right</task_step>
+            <task_step>Select the first video from the search results</task_step>
+            <task_step>Tap the thumbs-up button below the video</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>bilibili</app_name>
+        <task_desc>search for the user ayase yoasobi and subscribe it</task_desc>
+        <task_steps>
+            <task_step>Navigate to the search or discover section of the app</task_step>
+            <task_step>Tap the search bar and search for %_leftayase yoasobi%_right</task_step>
+            <task_step>Select the first result of the users from the search list</task_step>
+            <task_step>Tap the subscribe button to follow the user</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>bilibili</app_name>
+        <task_desc>pick a video from my favorites and give the video thumps up</task_desc>
+        <task_steps>
+            <task_step>Tap the "My" to access my personal page</task_step>
+            <task_step>Navigate to the "Favorites" section</task_step>
+            <task_step>Select the first video from the favorites list</task_step>
+            <task_step>Give the video thumps up</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>bilibili</app_name>
+        <task_desc>pick a video from my favorites and adjust the playback speed to 0.5x</task_desc>
+        <task_steps>
+            <task_step>Tap the "My" to access my personal page</task_step>
+            <task_step>Navigate to the "Favorites" section</task_step>
+            <task_step>Select the first video from the favorites list</task_step>
+            <task_step>Adjust the playback speed to 0.5x</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>bilibili</app_name>
+        <task_desc>switch to night mode in the app</task_desc>
+        <task_steps>
+            <task_step>Navigate to the settings menu</task_step>
+            <task_step>Find the display or theme settings</task_step>
+            <task_step>Enable night mode</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>kugou music</app_name>
+        <task_desc>search for the artist Bob Dylan, enter his profile, and play his top tracks</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftBob Dylan%_right</task_step>
+            <task_step>Select the artist "Bob Dylan" from the search results</task_step>
+            <task_step>Tap on the artist's profile to enter it</task_step>
+            <task_step>Start playing his top tracks</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>kugou music</app_name>
+        <task_desc>play the song Lemon and give it a like</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftlemon%_right</task_step>
+            <task_step>Play the first result of songs that matches "lemon"</task_step>
+            <task_step>Tap the "Like" or heart icon</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>kugou music</app_name>
+        <task_desc>find Billie Jean and add it to my Liked Songs playlist</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftBillie Jean%_right</task_step>
+            <task_step>Select the first result of songs that matches "Billie Jean"</task_step>
+            <task_step>Tap the "Like" or heart icon to add the song to Liked Songs playlist</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>kugou music</app_name>
+        <task_desc>create a playlist titled Future Beats in my library</task_desc>
+        <task_steps>
+            <task_step>Navigate to "My" interface</task_step>
+            <task_step>Locate and tap the option to create a new playlist</task_step>
+            <task_step>Enter the playlist name %_leftFuture Beats%_right</task_step>
+            <task_step>Confirm and save the playlist</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>kugou music</app_name>
+        <task_desc>update my profile gender to male</task_desc>
+        <task_steps>
+            <task_step>Navigate to personal information section</task_step>
+            <task_step>Locate the gender field and tap on it</task_step>
+            <task_step>Select "Male" from the gender options</task_step>
+            <task_step>Save the changes to update your profile</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>dazhongdianping</app_name>
+        <task_desc>search for nearby vegan-friendly restaurants, filter by budget, and sort them by proximity</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftvegan-friendly restaurants%_right</task_step>
+            <task_step>Select the filter option and apply budget range</task_step>
+            <task_step>Sort results by proximity</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>dazhongdianping</app_name>
+        <task_desc>search for nearby cafes, filter by distance, and navigate to the nearest one</task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftcafes%_right</task_step>
+            <task_step>Select the filter option and apply distance range</task_step>
+            <task_step>Select the nearest cafe</task_step>
+            <task_step>Start navigation</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>dazhongdianping</app_name>
+        <task_desc>find the first store in my recent orders and navigate to the merchant</task_desc>
+        <task_steps>
+            <task_step>Navigate to "My" interface</task_step>
+            <task_step>Tap the "My Orders" or "Recent Orders" section</task_step>
+            <task_step>Select the first order from the list of recent orders</task_step>
+            <task_step>Tap on the merchant information associated with the first order</task_step>
+            <task_step>Tap the navigation button to navigate to the merchant location</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>dazhongdianping</app_name>
+        <task_desc>check my recently viewed merchants list in the app</task_desc>
+        <task_steps>
+            <task_step>Navigate to "My" interface</task_step>
+            <task_step>Navigate to the "Recently Viewed" section</task_step>
+            <task_step>Select the "merchants" option</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>dazhongdianping</app_name>
+        <task_desc>look up "HeyTea" and leave a 5-star review </task_desc>
+        <task_steps>
+            <task_step>Tap the search bar and search for %_leftHeyTea%_right</task_step>
+            <task_step>Select the first search result that matches HeyTea</task_step>
+            <task_step>Tap on the "Write Review" or "Leave a Review" button</task_step>
+            <task_step>Select the 5-star rating option</task_step>
+            <task_step>Submit the review</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>clock</app_name>
+        <task_desc>add a clock for Beijing</task_desc>
+        <task_steps>
+            <task_step>Navigate to the interface of World Clock</task_step>
+            <task_step>Tap the "add" button to create a new clock</task_step>
+            <task_step>Tap the search bar and search for %_leftBeijing%_right</task_step>
+            <task_step>Select the first result for Beijing from the list and set it</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>clock</app_name>
+        <task_desc>set an alarm of 9:00 am on every Monday and Thursday without vibration</task_desc>
+        <task_steps>
+            <task_step>Navigate to the interface of alarm</task_step>
+            <task_step>Tap the "add" button to add a new alarm</task_step>
+            <task_step>Set the time to 9:00 am</task_step>
+            <task_step>Enable the repeat option and select Monday and Thursday</task_step>
+            <task_step>Disable the vibration option</task_step>
+            <task_step>Save the alarm</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>clock</app_name>
+        <task_desc>set an alarm of any time every weekend</task_desc>
+        <task_steps>
+            <task_step>Navigate to the interface of alarm</task_step>
+            <task_step>Tap the "add" button to add a new alarm</task_step>
+            <task_step>Enable the repeat option and select Saturday and Sunday</task_step>
+            <task_step>Save the alarm</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>clock</app_name>
+        <task_desc>access the settings to turn off the 24-hour clock setting</task_desc>
+        <task_steps>
+            <task_step>Navigate to the settings section</task_step>
+            <task_step>Find and tap on time setting option</task_step>
+            <task_step>Toggle off the "24-hour clock" setting</task_step>
+        </task_steps>
+    </task>
+    <task>
+        <app_name>clock</app_name>
+        <task_desc>set my sleep sound to "Firefly"</task_desc>
+        <task_steps>
+            <task_step>Navigate to the settings section</task_step>
+            <task_step>Tap on the option to change the sleep sound</task_step>
+            <task_step>Select "Firefly" from the list of available sleep sounds</task_step>
+        </task_steps>
+    </task>
+
+    <task>
+        <app_name>tiktok</app_name>
+        <task_desc>play a video from my favorites and send bullet comment "good"</task_desc>
+        <task_steps>
+            <task_step>Tap the "Me" or "Profile" icon to access your personal page</task_step>
+            <task_step>Navigate to the "Favorites" section</task_step>
+            <task_step>Select the first video from the favorites list</task_step>
+            <task_step>Send the bullet comment "good"</task_step>
+        </task_steps>
+    </task>
+</tasks>

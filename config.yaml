@@ -1,0 +1,30 @@
+MODEL: "Qwen"  # The type of multi-modal LLM you would like to use to power the AppAgent, must be either OpenAI, Qwen or DeepSeek
+
+OPENAI_API_BASE: "https://api.openai.com/v1/chat/completions"
+OPENAI_API_KEY: "sk-"  # Set the value to sk-xxx if you host the openai interface for open llm models
+OPENAI_API_MODEL: "gpt-4-vision-preview"  # The only OpenAI models by now that accepts visual input
+MAX_TOKENS: 300  # The max token limit for the response completion
+TEMPERATURE: 0.0  # The temperature of the models: the lower the value, the more consistent the output of the models
+REQUEST_INTERVAL: 2  # Time in seconds between consecutive GPT-4V requests
+
+DASHSCOPE_API_KEY: "sk-"  # The dashscope API key that gives you access to Qwen-VL models
+QWEN_MODEL_MLLM: ""
+QWEN_MODEL_LLM: ""
+# qwen-vl-max: 需要申请开通，如已开通可改回
+# qwen-vl-plus: 通义千问VL系列，支持图片输入，广泛可用
+
+ANDROID_SCREENSHOT_DIR: "/sdcard"  # Set the directory on your Android device to store the intermediate screenshots. Make sure the directory EXISTS on your phone!
+ANDROID_XML_DIR: "/sdcard"  # Set the directory on your Android device to store the intermediate XML files used for determining locations of UI elements on your screen. Make sure the directory EXISTS on your phone!
+
+DOC_REFINE: false  # Set this to true will make the agent refine existing documentation based on the latest demonstration; otherwise, the agent will not regenerate a new documentation for elements with the same resource ID.
+MAX_ROUNDS: 20  # Set the round limit for the agent to complete the task
+DARK_MODE: false  # Set this to true if your app is in dark mode to enhance the element labeling
+MIN_DIST: 30  # The minimum distance between elements to prevent overlapping during the labeling process
+
+# Optional UTP-SRM task-understanding layer.  When false, AppAgent follows the
+# original RAG + free-form task-division path unchanged.
+USE_UTP_SRM: false
+
+MODEL_PATH: ./models
+TASK_STEPS_PATH: ./table/task_steps.xml
+APP_DESC_PATH: ./table/app_desc.json
